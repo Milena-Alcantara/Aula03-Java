@@ -4,13 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 public class Ex6 {
-//Escreva um algoritmo que leia uma sequência de números do
-//usuário e realize a soma desses números. Encerre a execução
-//quando um número negativo for digitado.
-
-    //********** PROBLEMA NA HORA DE DIGITAR UM NÚMERO NEGATIVO**************
-
-
     public static void main(String[] args) {
 
         Scanner s = new Scanner(System.in);

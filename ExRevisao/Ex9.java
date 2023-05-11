@@ -1,13 +1,19 @@
 package ExRevisao;
 
-import java.util.Scanner;
 public class Ex9 {
-//Parei aqui pois não consegui resolver a tempo.
+
     public static void main(String[] args) {
-        Scanner s = new Scanner(System.in);
-
-        int n[]
-
+        int numeros = 101;
+    int [] numerosCentenas = new int[50];
+        for (int i = 0; i <50 ; i++) {
+            ;
+            numerosCentenas[i] = numeros;
+            numeros++;
+        }
+        for (int i = 0; i <numerosCentenas.length ; i++) {
+            System.out.println("O número na posição: "+ i+ " é "+numerosCentenas[i]);
+        }
 
     }
-}
+    }
+

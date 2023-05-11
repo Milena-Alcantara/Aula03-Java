@@ -3,8 +3,6 @@ package ExRevisao;
 import java.util.Scanner;
 public class Ex5 {
 
-    //Faça um algoritmo que leia 20 números e, ao final, escreva quantos estão entre 0 e 100.
-
     public static void main(String[] args) {
 
         Scanner s = new Scanner(System.in);
